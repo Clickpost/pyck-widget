@@ -1,6 +1,6 @@
-# Pyck Widget
+# Clickpost Tracking Widget
 
-Order tracking system
+Order tracking script
 
 
 ### How to Get Started
